@@ -1,0 +1,40 @@
+body {
+	background-color: #2f4050;
+}
+.navbar-nav li {
+	font-weight: bold;
+	font-family: Bitter,Georgia,Times;
+	font-size: 1.2em;
+	
+}
+.navbar-inverse {
+	margin-bottom: 0;
+}
+.col-sm-10 {
+	background-color: #fff;
+	z-index: 0
+}
+#side_menu a {
+color: #9fb1c2;
+}
+#side_menu .active a {
+	color: #fff;
+	background-color: #27AAE1;
+	font-weight: bold;
+
+}
+#side_menu a:hover {
+	color: #fff;
+	background-color: #5ccc6f;
+	font-weight: bold
+	display: block;
+
+}
+#footer {
+	padding: 10px;
+	border-top: 1px solid black;
+	color: #eee;
+	background-color: #211f22;
+	text-align: center;
+
+}
